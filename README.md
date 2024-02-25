@@ -1,8 +1,15 @@
-# sql-challenge
+## SQL-Challenge
  sql-challenge
 
 ## Overview
 This SQL database manages employee information, including details about employees, departments, titles, and salaries.
+
+## Entity Relationship Diagram
+- QuickDBD-sql-challenge.png
+
+## Structured Query Language files
+- sql-challenge-table-schemata.sql
+- sql-challenge-queries.sql
 
 ## Table Structure
 - **titles**: Stores information about employee titles.
